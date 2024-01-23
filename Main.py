@@ -6,3 +6,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#some changes
+    a=input("Enter your name:")
+    print("Assalamoalaikum!" + a )
