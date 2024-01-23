@@ -9,3 +9,6 @@ class ObstacleDetection:
 if __name__ == "__main__":
     obstacle_detection = ObstacleDetection()
     obstacle_detection.detect_obstacles()
+
+#some changes
+    print("This code is about the obstacles detector!!")
