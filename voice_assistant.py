@@ -10,5 +10,4 @@ if __name__ == "__main__":
     voice_assistant = VoiceAssistant()
     voice_assistant.provide_navigation_instructions("Turn left at the next intersection.")
 
-    #some changes
-    print("This code contain information about obstacles")
+
